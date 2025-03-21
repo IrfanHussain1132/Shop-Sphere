@@ -1,0 +1,149 @@
+/* Login Container */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f3f3f3;
+  }
+  
+  /* Amazon Logo */
+  .logo img {
+    width: 120px;
+    margin-bottom: 20px;
+  }
+  
+  /* Login Box */
+  .login-box {
+    background-color: rgb(132, 132, 132);
+    width: 350px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: left;
+  }
+  
+  /* Headings */
+  .login-box h1 {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+  }
+  
+  /* Form Inputs */
+  .login-box label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .login-box input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #a6a6a6;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  .login-box input:focus {
+    outline: none;
+    border-color: #ff9900;
+    box-shadow: 0 0 3px rgba(255, 153, 0, 0.5);
+  }
+  
+  /* Continue Button */
+  .login-box button {
+    width: 100%;
+    background-color: #ff9900;
+    color: rgb(188, 188, 188);
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .login-box button:hover {
+    background-color: #e68a00;
+  }
+  
+  /* Terms */
+  .terms {
+    font-size: 12px;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  .terms a {
+    color: #0066c0;
+    text-decoration: none;
+  }
+  
+  .terms a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Help Link */
+  .help {
+    margin-top: 10px;
+  }
+  
+  .help a {
+    color: #0066c0;
+    text-decoration: none;
+  }
+  
+  .help a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Divider */
+  .new-to-amazon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .new-to-amazon hr {
+    flex-grow: 1;
+    height: 1px;
+    border: none;
+    background-color: #8a8a8a;
+  }
+  
+  .new-to-amazon p {
+    margin: 0 10px;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  /* Create Account Link */
+  .create-account {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: #e7e9ec;
+    color: black;
+    font-size: 14px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .create-account:hover {
+    background-color: #d6d9db;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 400px) {
+    .login-box {
+      width: 90%;
+    }
+  }
+  

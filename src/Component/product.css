@@ -1,0 +1,232 @@
+.productpage{
+    width: 100%;
+}
+.topbanner{
+    gap: 25px;
+    height: 50px;
+    display: flex;
+    padding: 0 9px 0 15px;
+    box-shadow:  0 0 2px black;
+}
+
+.topbanneritems{
+    padding: 0 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+
+}
+.ItemsMenu{
+    padding: 0 13px;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    cursor: pointer;
+    align-items: center;
+
+    font-weight: 400;
+    &:hover{
+        text-decoration: underline;
+        text-decoration-color: #febd69;
+        text-decoration-thickness: 2px;
+    }
+}
+
+
+.promainpage{
+    display: flex;
+    padding: 6px 18px;
+}
+
+.pagemainleft{
+    width: 15%;
+    padding: 14px 10px;
+    border-right:2px solid rgb(200, 200, 200) ;
+}
+.leftcattitle{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.catcontent{
+    margin-top: 15px;
+    
+    font-size: 14px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.subcatcontent{
+    margin-top: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+.ratingleftbox{
+    display: flex;
+    cursor: pointer;
+}
+.andup{
+
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.pagemainright{
+    width: 86%;
+    padding: 0 0 0 12px;
+}
+.righttopbanner{
+    width: 99%;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+    margin: 20px 0;
+    padding: 14px 38px;
+    border-radius:5px ;
+    font-size: 14px;
+}
+
+.topspan{
+    font-weight: 700;
+    font-size: 15px;
+    color: #c45500;
+}
+
+
+
+.imgpropage{
+    width: 100%;
+    display: grid;
+    gap: 100px;
+    grid-template-columns: 308px 308px 308px;
+}
+
+.propageone{
+    display: flex;
+    flex-direction: column;
+    width: 88%;
+    border-radius:5px ;
+    height: 640px;
+    box-sizing: border-box;
+}
+
+.imgpropage1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 40px 20px;
+    width: 360px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: rgb(229, 228, 228);
+}
+
+.proimage{
+    width: 85%;
+    height: 260px;
+}
+
+
+
+.proname{
+    padding: 20px;
+    width: 320px;
+    box-shadow: 0 2px 5px black;
+    border-top: none;
+    flex-direction: column;
+    display: flex;
+}
+
+.prorating{
+    margin: 10px 0px;
+    display: flex;
+}
+
+
+.pricepage{
+    display: flex;
+}
+
+.currency{
+    font-size: 13px;
+}
+.ratedetail{
+    font-size: 28px;
+    font-weight: 400;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.addtobasket {
+    background-color: #febd69;
+    width: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 12px;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.addtobasket:hover {
+    background-color: #faad49;
+    font-weight: bold;
+}
+.offpropage{
+    color: rgb(91, 104, 91);
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.freedelivery{
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

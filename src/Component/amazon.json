@@ -1,0 +1,81 @@
+{
+    "product": [
+      {
+        "itemtitle": "Deals based on your shopping trends",
+        "imgs": [
+          { "url": "https://m.media-amazon.com/images/I/51ljnEaW0pL._AC_SY145_.jpg", "name": "PS5 Disc Edition" },
+          { "url": "https://m.media-amazon.com/images/I/51afJC92cgL._AC_SY145_.jpg", "name": "PS5 Slim Edition" },
+          { "url": "https://m.media-amazon.com/images/I/512ut4f+M8L._AC_UL480_FMwebp_QL65_.jpg", "name": "Exsportic Edition" },
+          { "url": "https://m.media-amazon.com/images/I/61a1ALIu2SL._AC_SY145_.jpg", "name": "Sony Console" }
+        ]
+      },
+      {
+        "itemtitle": "Minimum 50% off | Home, kitchen & more",
+        "imgs": [
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/JanArt25/PC_QC_Fur3_1x._SY116_CB537769473_.jpg", "name": "Furniture" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/JanArt25/PC_QC_Kitchen1_1x._SY116_CB537769831_.jpg", "name": "Kitchen" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/JanArt25/PC_QC_HI4_1x._SY116_CB537769659_.jpg", "name": "Home Improvement" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/JanArt25/PC_QC_Homedecor2_1x._SY116_CB537769897_.jpg", "name": "Home Decor" }
+        ]
+      },
+      {
+        "itemtitle": "Deals on accessories from your top smartphone brands",
+        "imgs": [
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/WLA/2025/JanART/MSO/DESKTOP/REVISED/D196606858_PC_QC_186x116_4AA_8._SY116_CB552773787_.jpg", "name": "Realme | upto 30%" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/WLA/2025/JanART/MSO/DESKTOP/REVISED/D196606858_PC_QC_186x116_4AA_6._SY116_CB552773787_.jpg", "name": "Samsung | upto 25%" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/WLA/2025/JanART/MSO/DESKTOP/REVISED/D196606858_PC_QC_186x116_4AA_1._SY116_CB552773787_.jpg", "name": "MI | upto 35%" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/WLA/2025/JanART/MSO/DESKTOP/REVISED/D196606858_PC_QC_186x116_4AA_7._SY116_CB552773787_.jpg", "name": "Oneplus | upto20%" }
+        ]
+      },
+      {
+        "itemtitle": "Nike Bestsellers Jordans justfor you",
+        "imgs": [
+          { "url": "https://m.media-amazon.com/images/I/61qc280jtnL._AC_UL480_FMwebp_QL65_.jpg", "name": "Nike Jordans" },
+          { "url": "https://m.media-amazon.com/images/I/713C4wFx0jL._AC_UL480_FMwebp_QL65_.jpg", "name": "Nike Legacy 32" },
+          { "url": "https://m.media-amazon.com/images/I/61B9g6-khYL._AC_UL480_FMwebp_QL65_.jpg", "name": "Nike Vision " },
+          { "url": "https://m.media-amazon.com/images/I/711v2pPVHKL._AC_UL480_FMwebp_QL65_.jpg", "name": "Nike AirMax" }
+        ]
+      },
+      {
+        "itemtitle": "Minimum 50% off | Amazon brands & more",
+        "imgs": [
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/PB/JAN2025/21-1x._SY116_CB553014500_.jpg", "name": "Minimum 50% off | Beds" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/PB/JAN2025/1x-desktop._SY116_CB553014500_.jpg", "name": "Starting from 299 | Containers" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/PB/JAN2025/22-1x-kitche._SY116_CB553018991_.jpg", "name": "Minimum 40% off | Racks" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/PB/JAN2025/11-1x._SY116_CB553018991_.jpg", "name": "Minimum 36% off | Bean Bags" }
+        ]
+      },
+      {
+        "itemtitle": "Nike Bestsellers Jordans justfor you",
+        "imgs": [
+          { "url": "https://m.media-amazon.com/images/I/71VJdqd2cuL._AC_UY327_FMwebp_QL65_.jpg", "name": "Monitors" },
+          { "url": "https://m.media-amazon.com/images/I/81nMCi1QCAL._AC_UY327_FMwebp_QL65_.jpg", "name": "Cool GPUs" },
+          { "url": "https://m.media-amazon.com/images/I/71qxEY6PtiL._AC_UY327_FMwebp_QL65_.jpg", "name": "High rated GPUs " },
+          { "url": "https://m.media-amazon.com/images/I/51J1tnBewIL._AC_UY327_FMwebp_QL65_.jpg", "name": "EvoFox Starter " }
+        ]
+      }
+      ,
+      {
+        "itemtitle": "Up to 60% off | Upgrade your everyday looks",
+        "imgs": [
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PCA/Nanditha/AH/PC_QC-lifestyle-1x-1._SY116_CB552984975_.jpg", "name": "Hair Dryers" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PCA/Nanditha/AH/PC_QC-lifestyle-1x-2._SY116_CB552984975_.jpg", "name": "Straighters" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PCA/Nanditha/AH/PC_QC-lifestyle-1x-4._SY116_CB552984975_.jpg", "name": "Step Trimmers " },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PCA/Nanditha/AH/PC_QC-lifestyle-1x-3._SY116_CB552984975_.jpg", "name": "Starting from 700" }
+        ]
+      }
+      ,
+      {
+        "itemtitle": "Up to 70% off | Deals on gaming consoles & more",
+        "imgs": [
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/AE/D197369543_PC_QC_4_1x._SY116_CB552828090_.jpg", "name": "Gaming CDs" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/AE/D197369543_PC_QC_3_1x._SY116_CB552828090_.jpg", "name": "Consoles" },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/AE/D197369543_PC_QC_2_1x._SY116_CB552828090_.jpg", "name": "Sony Editions " },
+          { "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/AE/D197369543_PC_QC_1_1x._SY116_CB552828090_.jpg", "name": "Slim Editions" }
+        ]
+      }
+      
+      
+    ]
+  }
+  

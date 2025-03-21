@@ -1,0 +1,16 @@
+.App{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Items{
+  display: flex;
+}
+.content {
+  margin-top: 80px; /* Adjust this value based on your navbar's height */
+  padding: 25px 0 0 0;
+}

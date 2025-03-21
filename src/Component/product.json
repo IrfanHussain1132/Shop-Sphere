@@ -1,0 +1,39 @@
+{
+    "product":[
+        {
+            "id": "1",
+            "name": "HP OMEN Gaming Laptop, AMD Ryzen 9 7940HS AI-Powered, 8GB RTX 4070 GPU, 16.1-inch (40.9 cm), FHD, IPS, 165Hz, 300 nits, 16GB DDR5, 1TB SSD, RGB Backlit KB, B&O",
+            "price": 67999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/71qdho3uCwL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Corsair Void RGB Elite Wired USB Premium Gaming Over Ear Headphones with 7.1 Surround Sound with Mic (White)...",
+            "price": 7599,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61veopbf73L._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Sony Ps5 Spiderman 2 Standard Edn.",
+            "price": 2999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/81qBiCSoegL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Sony PlayStation®5 Digital Edition (slim)...",
+            "price": 40991,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/51afJC92cgL._SL1000_.jpg"
+          },
+          {
+            "id": "5",
+            "name": "Xiaomi Pad 6| Qualcomm Snapdragon 870| Powered by HyperOS | 144Hz Refresh Rate| 6GB, 128GB| 2.8K+ Display ...",
+            "price": 24999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/71LRY1j6UHL._AC_UY327_FMwebp_QL65_.jpg"
+          }
+    ]
+}

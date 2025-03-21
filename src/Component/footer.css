@@ -1,0 +1,37 @@
+.footer{
+    color: white;
+    margin-top: 25px;
+    background-color: #232F3E;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px 20px;
+}
+.amazonimg{
+    margin-top: 40px;
+
+}
+.amazonimgfooter{
+    width: 110px;
+    margin-top: 40px;
+}
+
+.footercontent{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+.footertitle{
+    font-size: 19px;
+    font-weight: 600;
+}
+.footersubtilte{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.subtitle{
+    margin-bottom: 14px;
+}
+.footercon1{
+    margin-top: 35px;
+}

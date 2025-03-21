@@ -1,0 +1,69 @@
+.navbarbanner{
+    padding: 0 0 0 11px;
+    display: flex;
+    background-color: #232f3e;
+    color: white;
+    height: 45px;
+    /* position: fixed; */
+    
+    justify-content: space-between;
+}
+.sideoffer{
+    height: 39px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.optionright{
+    width: 400px;
+    &:hover{
+        border-radius: 5px;
+        border: 1px solid;
+      
+    }
+}
+
+
+.optionleft{
+    display: flex;
+     justify-content: center;
+    font-weight: 500;
+    height: 39px;
+    align-items: center;
+    color: white;
+    text-transform: capitalize;
+    padding: 1px;
+    border-radius: 4px;
+    cursor: pointer;
+    &:hover{
+        border-radius: 1px;
+        border: 2px solid;
+      
+    }
+}
+.menubar{
+    font-weight:500;
+    font-size: 15px;
+    padding: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
